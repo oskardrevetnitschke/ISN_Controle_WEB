@@ -1,0 +1,29 @@
+/*La couleur d'arrière plan du site est indiqué dans le fichier bootstrap.min.css*/
+h1, h3{
+  color: white;
+  font-family: arial;
+  text-decoration: underline;
+}
+p, a, h3, li{
+  color: white;
+  font-family: arial;
+  text-align: justify;
+}
+h3, p, img{
+  margin-left: 50px;
+}
+h3{
+  text-align: center;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #424242;
+  color: white;
+}
+.underligne{
+  text-decoration: underline;
+}
